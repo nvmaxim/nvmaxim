@@ -1,11 +1,11 @@
-Привет!  
-Я Максим, Data Engineer из Москвы.  
+Hey there! 👋  
+I’m Maxim, a Data Engineer from Moscow.  
 
-Люблю превращать сырые данные в работающие решения. Строю ETL-пайплайны, работаю с геоданными и автоматизирую рутину.  
+I turn raw data into actionable pipelines. Specializing in ETL, geospatial data, and automating the boring stuff.  
 
-Необычные факты:  
-Пью кофе и чай (но терпеть не могу чёрный чай).
-Считаю «Интерстеллар» лучшим научным фильмом.  
+**Fun facts:**
+I drink coffee *and* tea (but black tea is my nemesis) ☕
+"Interstellar" is my benchmark for sci-fi realism 🚀
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
