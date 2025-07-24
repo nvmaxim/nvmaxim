@@ -6,7 +6,7 @@
 ---
 
 ### 📊 Активность
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ваш_ник&show_icons=true&hide_title=true&hide_border=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nvmaxim&show_icons=true&hide_title=true&hide_border=true&theme=transparent)
 
 ---
 
