@@ -19,4 +19,4 @@ Currently upgrading my skills in **Big Data Engineering at MIPT**.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 **Geospatial** <br>
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white) ![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat&logo=arcgis&logoColor=white) ![ESA SNAP](https://img.shields.io/badge/ESA_SNAP-Processing-003366?style=flat)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white) ![GDAL](https://img.shields.io/badge/GDAL-5CAE58?style=flat&logo=gdal&logoColor=white) ![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat&logo=arcgis&logoColor=white) ![ESA SNAP](https://img.shields.io/badge/ESA_SNAP-Processing-003366?style=flat)
