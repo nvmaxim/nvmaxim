@@ -1,4 +1,4 @@
-# Hi there! I’m Maxim.
+## Hi there! I’m Maxim.
 
 **Data Engineer** from Moscow. Specializing in ETL, geospatial data, and automating the boring stuff.  
 Currently upgrading my skills in **Big Data Engineering at MIPT**.
