@@ -1,11 +1,13 @@
-## Hi there! I’m Maxim.
+## Привет! Я Максим
 
-**Data Engineer** from Moscow. Specializing in ETL, geospatial data, and automating the boring stuff.  
-Currently upgrading my skills in **Big Data Engineering at MIPT**.
+**Инженер данных** из Москвы. Специализируюсь на ETL, геопространственных данных и автоматизации скучных задач.
+Прошел профпереподготовку в **ФПМИ МФТИ** по программе «Инженер данных».
 
-**Fun facts:**  
-- I drink coffee and tea (but black tea is my nemesis).
-- "Interstellar" is my benchmark for sci-fi realism.
+**Факты обо мне:**  
+- ☕ Пью кофе и чай (но черный чай - мой враг)
+- 🛰 Интерстеллар - эталон научной фантастики
+- 🥋 8 лет карате и черный пояс (1 дан). Дисциплина помогает в коде
+- 🌲 Как геоэколог, люблю собирать грибы - тренирую внимательность в полевых условиях
 
 ---
 
