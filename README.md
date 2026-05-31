@@ -15,5 +15,8 @@
 ### Data Engineering & Cloud
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=flat&logo=dbeaver&logoColor=white) ![AWS S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazon-s3&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
+### Data Engineering & Cloud
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=flat&logo=dbeaver&logoColor=white) ![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=flat&logo=filezilla&logoColor=white) ![AWS S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazon-s3&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+
 **Geospatial** <br>
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white) ![GDAL](https://img.shields.io/badge/GDAL-5CAE58?style=flat&logo=gdal&logoColor=white) ![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat&logo=arcgis&logoColor=white) ![ESA SNAP](https://img.shields.io/badge/ESA_SNAP-Processing-003366?style=flat)
