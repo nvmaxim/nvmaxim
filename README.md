@@ -12,6 +12,9 @@
 **Языки и библиотеки** <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![GeoPandas](https://img.shields.io/badge/GeoPandas-139A53?style=flat&logo=python&logoColor=white) ![GDAL](https://img.shields.io/badge/GDAL-006400?style=flat&logo=osgeo&logoColor=white)
 
+**Форматы данных** <br>
+![JSON](https://img.shields.io/badge/JSON-292929?style=flat&logo=json&logoColor=white) ![GeoJSON](https://img.shields.io/badge/GeoJSON-4A90E2?style=flat) ![XML/KML](https://img.shields.io/badge/XML%20%2F%20KML-E67E22?style=flat) ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white)
+
 **БД и хранилища** <br>
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=flat&logo=mysql&logoColor=white) ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat&logo=postgresql&logoColor=white) ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=flat&logo=dbeaver&logoColor=white) ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
 
