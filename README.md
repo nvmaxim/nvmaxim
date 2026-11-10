@@ -23,3 +23,4 @@
 
 **Инфраструктура и инструменты** <br>
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) ![uv](https://img.shields.io/badge/uv-211153?style=flat) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=flat&logo=filezilla&logoColor=white)
+![Pentaho](https://img.shields.io/badge/Pentaho_PDI-00599C?style=flat&logo=hitachi&logoColor=white)
